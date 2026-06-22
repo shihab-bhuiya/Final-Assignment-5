@@ -3,6 +3,7 @@
 A modern, enterprise-grade responsive Single Page Application (SPA) designed to track, filter, and audit live code diagnostic records. Built entirely using clean semantic HTML5, Vanilla ES6+ JavaScript, and styled with native Tailwind CSS utilities, this application communicates dynamically with remote production databases via asynchronous network pipelines.
 
 ---
+**Live Link**: https://githubr.netlify.app/ 
 
 ## ⚙️ Core Application Architecture Features
 * **Secure Gateway Authentication**: Includes a dedicated administrative profile wall preventing layout leakage prior to authorized verification tokens clearance.
